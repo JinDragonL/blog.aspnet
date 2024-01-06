@@ -2,8 +2,8 @@
     font-family: "RobotoSlabRegular";
     src: url("../fonts/RobotoSlabRegular/roboto-slab-regular.eot");
     src: url("../fonts/RobotoSlabRegular/roboto-slab-regular.eot?#iefix")format("embedded-opentype"),
-    url("../fonts/RobotoSlabRegular/roboto-slab-regular.woff") format("woff"),
-    url("../fonts/RobotoSlabRegular/roboto-slab-regular.ttf") format("truetype");
+    url("../fonts/themify.woff") format("woff"),
+    url("../fonts/themify.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
