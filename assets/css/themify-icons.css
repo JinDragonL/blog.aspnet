@@ -22,6 +22,30 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+@font-face {
+    font-family: "themeify";
+    src: url("../fonts/themify.eot");
+    src: url("../fonts/themify.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/themify.woff") format("woff"),
+    url("../fonts/themify.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+[class^="ti-"], [class*=" ti-"] {
+	font-family: 'themeify';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
 .ti-wand:before {
 	content: "\e600";
 }

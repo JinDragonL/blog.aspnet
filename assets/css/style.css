@@ -302,7 +302,7 @@ input[type="checkbox"] {
     top: 0;
     left: 0;
     overflow-y: scroll;
-    z-index: 1001;
+    z-index: 99;
     background: #fff;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
