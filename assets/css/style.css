@@ -55,7 +55,7 @@ h6 {
     font-family: 'Oswald', sans-serif;
     font-weight: 500;
     line-height: 1.5em;
-    margin: 0 0 20px 0;
+    margin: 0 0 10px 0;
 }
 
 
@@ -691,7 +691,6 @@ body.offcanvason .doro-nav-toggle {
 .doro-heading {
     color: #101010;
     font-family: 'Oswald', sans-serif;
-    margin-bottom: 30px;
     font-weight: 500;
     font-size: 30px;
     letter-spacing: 3px;
