@@ -102,11 +102,6 @@ a:focus {
     outline: none;
 }
 
-img {
-    width: 100%;
-    height: auto;
-}
-
 .mb-30 {
     margin-bottom: 30px;
 }
